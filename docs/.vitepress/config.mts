@@ -9,8 +9,7 @@ export default defineConfig({
   head: [
     ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/vite/apple-touch-icon.png' }],
     ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/vite/favicon-32x32.png' }],
-    ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/vite/favicon-16x16.png' }],
-    ['link', { rel: 'manifest', href: '/vite/site.webmanifest' }]
+    ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/vite/favicon-16x16.png' }]
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
